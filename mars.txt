@@ -1,5 +1,10 @@
 Cold and dry here on Mars. 
 
+<<<<<<< HEAD
 here's another line of interesting updates.... lots.
 
 
+=======
+here's another line of interesting updates.
+.. these changes were made on git hub.  This is to see what happens when you pull to see changes. 
+>>>>>>> 5924d2f6a3c528fa932fe16ddf42fc38a9299727
